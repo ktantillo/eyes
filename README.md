@@ -7,6 +7,12 @@ This project was an introductory coding activity. The idea here was to show how 
 
 How to Run 
 
+Clone the files in the repo to your machine locally. Open the index.html file in the browser of your choice, Crome is recommended. Now, move your mouse icon around the screen to see the movement of the eyes. 
+
+Roadmap for the Future 
+
+In future iterations I would make it so the eyes would react with other inputs, as in, blink when the mouse is clicked. 
+
 License
 
 This HTML project uses the Copyright 2020 John Williams
